@@ -1,0 +1,22 @@
+学生管理系统
+
+
+用户表    id   name   password  createDate
+
+
+学生表   id name  sex   birthday   score   hobby
+
+
+日志表    id   content        ip  author
+
+
+架构体系    
+
+用户 mongodb
+
+学生   mybatis  mysql
+
+日志   redis
+
+
+
