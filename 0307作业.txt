@@ -1,0 +1,23 @@
+1  mybatis-plus
+
+2   电商拆为分布式架构（springcloud）
+
+    总结springcloud的相关知识点
+
+    商量模块怎么划分
+
+
+日志模块    mongodb做
+
+
+用户模块   mybatis-plus
+
+分类模块   redis
+
+商品模块  mybatis
+
+sku模块   mybatis
+
+品牌模块  redis
+
+    
